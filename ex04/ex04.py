@@ -14,3 +14,6 @@ print "There will be", cars_not_driven, "enpty cars today."
 print "We can transport", carpool_capacity, "people today."
 print "We have", passengers, "to carpool today."
 print "We need to put about", average_passengers_per_car, "in each car."
+
+#-*-coding:cp949
+한글로 된 .py 파일 첫줄에 쓰기.
